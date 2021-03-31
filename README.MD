@@ -26,6 +26,7 @@ py main.py Куда_хотим_обратиться.net
 Пример:
     input:
     py main.py urfu.ru
+    
     output:
     №    Ip              AS              Country   Provider
     1    192.168.0.1     None            None      None
